@@ -1,6 +1,6 @@
 import React from "react";
 import {username, city} from "../data/user";
-export {Home};
+export default Home;
 
 function Home() {
   return (
